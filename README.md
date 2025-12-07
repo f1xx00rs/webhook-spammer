@@ -19,7 +19,7 @@
   <img src="https://github.com/f1xx00rs/webhook-spammer/blob/db4f9cf0babf78245a86630248ac8f2d944344bc/image.png">
 
 # Компиляция namegen.cpp (если вы слишком пугаетесь .exe)  
-1. Скачайте [Visual Studio](https://visualstudio.microsoft.com/ru/downloads/) (не VS Code)\  
+1. Скачайте [Visual Studio](https://visualstudio.microsoft.com/ru/downloads/) (не VS Code)
 2. Выберите  "Разработка классических приложений на C++" и выберите такие же параметры как у меня\  
 <img src="https://github.com/f1xx00rs/webhook-spammer/blob/aa29fe776ba6b92120fce0853e7005504f9a3322/settings.png">  
 3. Установите VS и создайте "Консольное приложение" с любым названием\  
