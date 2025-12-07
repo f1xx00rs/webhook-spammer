@@ -12,7 +12,20 @@
 1. Установите VC_redist x86. Он нужен что бы запустить namegen\
 2. Установить библиотеки\
 ```pip install colorama discord_webhook```
-3. Запустить **ОБЯЗАТЕЛЬНО** через cmd (сурс код полностью открыт, не бойтесь)
+3. Запустить namegen.exe
+4. Запустить **ОБЯЗАТЕЛЬНО** через cmd (сурс код полностью открыт, не бойтесь)
 
 # Скриншот
   <img src="https://github.com/f1xx00rs/webhook-spammer/blob/db4f9cf0babf78245a86630248ac8f2d944344bc/image.png">
+
+# Компиляция namegen.cpp (если вы слишком пугаетесь .exe)
+
+1. Скачайте [Visual Studio](https://visualstudio.microsoft.com/ru/downloads/) (не VS Code)\
+2. Выберите  "Разработка классических приложений на C++" и выберите такие же параметры как у меня
+<img src="https://github.com/f1xx00rs/webhook-spammer/blob/aa29fe776ba6b92120fce0853e7005504f9a3322/settings.png">
+3. Установите VS и создайте "Консольное приложение" с любым названием\
+4. Вставьте код из namegen.cpp
+5. Вместо Debug выберите Release, вместо x64 x86
+6. Нажмите Локальный отладчик Windows, далее просто закройте консоль после секунд 10-15 когда она появится
+7. Пройдите по пути: C:\Users\ваш_пользователь\source\repos\имя_проекта\Release
+8. Запустите namegen.exe 
