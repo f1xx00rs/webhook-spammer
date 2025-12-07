@@ -21,10 +21,10 @@
 # Компиляция namegen.cpp (если вы слишком пугаетесь .exe)  
 1. Скачайте [Visual Studio](https://visualstudio.microsoft.com/ru/downloads/) (не VS Code)
 2. Выберите  "Разработка классических приложений на C++" и выберите такие же параметры как у меня\  
-<img src="https://github.com/f1xx00rs/webhook-spammer/blob/aa29fe776ba6b92120fce0853e7005504f9a3322/settings.png">  
-3. Установите VS и создайте "Консольное приложение" с любым названием\  
-4. Вставьте код из namegen.cpp\  
-5. Вместо Debug выберите Release, вместо x64 x86\  
-6. Нажмите Локальный отладчик Windows, далее просто закройте консоль после секунд 10-15 когда она появится\  
-7. Пройдите по пути: C:\Users\ваш_пользователь\source\repos\имя_проекта\Release\  
-8. Запустите namegen.exe\  
+<img src="https://github.com/f1xx00rs/webhook-spammer/blob/aa29fe776ba6b92120fce0853e7005504f9a3322/settings.png">
+3. Установите VS и создайте "Консольное приложение" с любым названием 
+4. Вставьте код из namegen.cpp
+5. Вместо Debug выберите Release, вместо x64 x86
+6. Нажмите Локальный отладчик Windows, далее просто закройте консоль после секунд 10-15 когда она появится
+7. Пройдите по пути: C:\Users\ваш_пользователь\source\repos\имя_проекта\Release
+8. Запустите namegen.exe
