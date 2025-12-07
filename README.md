@@ -11,5 +11,5 @@
 
 1. Установите VC_redist x86. Он нужен что бы запустить namegen\
 2. Установить библиотеки\
-```pip install colorama discord_webhook```\
+```pip install colorama discord_webhook```
 3. Запустить **ОБЯЗАТЕЛЬНО** через cmd (сурс код полностью открыт, не бойтесь)
