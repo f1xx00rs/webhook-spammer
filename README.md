@@ -13,3 +13,6 @@
 2. Установить библиотеки\
 ```pip install colorama discord_webhook```
 3. Запустить **ОБЯЗАТЕЛЬНО** через cmd (сурс код полностью открыт, не бойтесь)
+
+# Скриншот
+  <img src="https://github.com/f1xx00rs/webhook-spammer/blob/db4f9cf0babf78245a86630248ac8f2d944344bc/image.png">
